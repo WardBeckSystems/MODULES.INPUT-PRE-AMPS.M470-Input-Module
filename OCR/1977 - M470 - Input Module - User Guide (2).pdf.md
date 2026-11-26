@@ -25,7 +25,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Words (OCR):** 380 in 172 lines: HA STER ASSI GtI'\[NI sw tc 5\1/17 \ljhen de re ss · output · BS · HA TER so.mn;n9 bu loll. · Fe · vi · i"g · isto · to · de pr essed, (')I,j · SU8l"lA SIU · AS
 - **Title block:** (55, 0)–(419, 104) mm: AUXI LIARY ASSIG '*'tENT wi tc hes SW2 · nd SW2 · """en · AUXIL IARY · V£L con trol · RIDO nd 1\102 · Con tr · ts · he app op ia te AUXI IARY (M,l · c:x;ia ed ou · igna · le ve · AUXILI ARY OU pvts · 
 
-Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide (2) p1 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20(2)%20p1%20(traced).json) (the CAD file: `1977 - M470 - Input Module - User Guide (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide (2) p1 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1977 - M470 - Input Module - User Guide (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide 
 - **Words (OCR):** 121 in 79 lines: lI NE · INP UT · SELECTOR · SU8 · 0/-10 d8m · '-4of. · CTLCOM · 150 HM · CT~~':. · MIC · 'f--h · MU TE
 - **Title block:** (287, 3)–(432, 69) mm: 10/71 · REDRAW · IS SUE DATE · REVISION · APP. · (\NBS) WARO-BECK YSTEMS · ps · BS · DRN GE8 · M470 · ENG. RK8 · INPUT MODU LE · CK · tp DI GRAM · APP. · FUN CTIONA · ht · seALE · Bl 470 01- · ISSUE
 
-Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide (2) p2 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20(2)%20p2%20(traced).json) (the CAD file: `1977 - M470 - Input Module - User Guide (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide (2) p2 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1977 - M470 - Input Module - User Guide (2) p2 (traced).dxf`).
 
 ## Full text
 

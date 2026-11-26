@@ -34,7 +34,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Words (OCR):** 45 in 33 lines: 312 DIA: · PLACES · 545 DIA · C PLACES · MARKED · 375 DIA · 2 PLACES · MARKED · CarT | · 562 DIA. · PLACE · 375
 - **Title block:** (351, 40)–(514, 131) mm: WBS WAAD-Beck Byateme · 0o Thk DRK GEB · DATE MAR · M47o · CKD · NpuT MODULE · [SCALE · 47o 03-Ioi
 
-Every curve, box, word and wire group: [1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6 (traced).json](../MECHANICAL/1977%20-%20470-03-101%20-%20B%26C%20INPUT%20MODULE%20ESCUTCHEON%20-%20DRN%20GEB%20-%20ISS%206%20(traced).json) (the CAD file: `1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6 (traced).json](../MECHANICAL/1977%20-%20470-03-101%20-%20B%26C%20INPUT%20MODULE%20ESCUTCHEON%20-%20DRN%20GEB%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6 (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Circles and arcs:** 3 circles, 37 arcs; largest r 3.6 @ (526.2, 83.8), r 1.8 @ (15.1, 71.6), r 1.8 @ (490.5, 84.8)
 - **Closed boxes:** 31
 
-Every curve, box, word and wire group: [1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6 (traced).json](../MECHANICAL/1977%20-%20470-03-100%20-%20INPUT%20MODULE%20EXTRUSION%20-%20DRN%20GEB%20-%20ISS%206%20(traced).json) (the CAD file: `1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6 (traced).json](../MECHANICAL/1977%20-%20470-03-100%20-%20INPUT%20MODULE%20EXTRUSION%20-%20DRN%20GEB%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6 (traced).dxf`).
 
 ## Full text
 

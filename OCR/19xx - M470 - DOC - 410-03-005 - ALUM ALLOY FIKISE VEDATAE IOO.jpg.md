@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 78 in 67 lines: 312 DA: · PLACES · 970 · 3.858 · 6.746 · 545DiA · PLACES · MARKED · 634 · 622 · 7.065 · 697
 - **Title block:** (348, 7)–(428, 33) mm: AlLOY · WBS WAAD-BeCK BYBTeME · LTD · M470 · nPUT MODULE · CKD · ECALE · 470 · 03-005
 
-Every curve, box, word and wire group: [19xx - M470 - DOC - 410-03-005 - ALUM ALLOY FIKISE VEDATAE IOO (traced).json](../MECHANICAL/19xx%20-%20M470%20-%20DOC%20-%20410-03-005%20-%20ALUM%20ALLOY%20FIKISE%20VEDATAE%20IOO%20(traced).json) (the CAD file: `19xx - M470 - DOC - 410-03-005 - ALUM ALLOY FIKISE VEDATAE IOO (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M470 - DOC - 410-03-005 - ALUM ALLOY FIKISE VEDATAE IOO (traced).json](../MECHANICAL/19xx%20-%20M470%20-%20DOC%20-%20410-03-005%20-%20ALUM%20ALLOY%20FIKISE%20VEDATAE%20IOO%20%28traced%29.json) (the CAD file: `19xx - M470 - DOC - 410-03-005 - ALUM ALLOY FIKISE VEDATAE IOO (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Title block:** (286, 2)–(432, 76) mm: DC CONTROLS ADDED · 11/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · M47o · ENG_ RKB · INPUT MODULE · CKD Eel · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 470 - 01-00
 - **Wiring (first pass):** 188 connected wire groups from 488 runs; labelled ends: 267 mm → JACKS, 0 dBm, ON; 210 mm → B ST, PRE/Post; 98 mm → 11/77; 93 mm → ON; 63 mm → SELECTOR, Mic PAD
 
-Every curve, box, word and wire group: [1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3 (traced).json](../SCHEMATICS/1977%20-%20470-01-001%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%203%20(traced).json) (the CAD file: `1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3 (traced).json](../SCHEMATICS/1977%20-%20470-01-001%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3 (traced).dxf`).
 
 ## Full text
 

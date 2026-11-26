@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Closed boxes:** 18; named: 248 47 Set; 410*23-Bo2-4
 - **Words (OCR):** 73 in 63 lines: 312 DiA: · 12 PLACES · 970 · 545 DiA · 3 PLACES · 8.746 · 7.065 · 6.522 · 5.697 · 303 · 903 · 4.515
 
-Every curve, box, word and wire group: [19xx - M470 - DOC - 476-03-082 - TETOTA VIUYL SIDE (traced).json](../MECHANICAL/19xx%20-%20M470%20-%20DOC%20-%20476-03-082%20-%20TETOTA%20VIUYL%20SIDE%20(traced).json) (the CAD file: `19xx - M470 - DOC - 476-03-082 - TETOTA VIUYL SIDE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M470 - DOC - 476-03-082 - TETOTA VIUYL SIDE (traced).json](../MECHANICAL/19xx%20-%20M470%20-%20DOC%20-%20476-03-082%20-%20TETOTA%20VIUYL%20SIDE%20%28traced%29.json) (the CAD file: `19xx - M470 - DOC - 476-03-082 - TETOTA VIUYL SIDE (traced).dxf`).
 
 ## Full text
 

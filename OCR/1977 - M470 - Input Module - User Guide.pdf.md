@@ -25,7 +25,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Words (OCR):** 52 in 47 lines: 5wz| ! · Jster · 2[crnji · Jutiny · apect · {umic5 · Jepresse0, · unit · 6i978 · MPVT · Hhen · fter Iltcr Hich-Pa5?
 - **Title block:** (357, 17)–(432, 34) mm: WBS WARO-BECk Bybtemb · MGB · M47o
 
-Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide p1 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20p1%20(traced).json) (the CAD file: `1977 - M470 - Input Module - User Guide p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide p1 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20p1%20%28traced%29.json) (the CAD file: `1977 - M470 - Input Module - User Guide p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide 
 - **Words (OCR):** 98 in 91 lines: MiciliNE · SELECTOR · DIRECT · Mic · INPUT · SUB · dBm  BRIDGING · 60/-10 dBm · CTL COM · 150 OhmS · MSoR · CTL
 - **Title block:** (286, 2)–(432, 76) mm: 11/77 · DC CONTROLS ADDED · lid 77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. GEB · M47o · ENG_ RKB · INPUT MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 470 - 01 - 0
 
-Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide p2 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20p2%20(traced).json) (the CAD file: `1977 - M470 - Input Module - User Guide p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470 - Input Module - User Guide p2 (traced).json](../MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20p2%20%28traced%29.json) (the CAD file: `1977 - M470 - Input Module - User Guide p2 (traced).dxf`).
 
 ## Full text
 

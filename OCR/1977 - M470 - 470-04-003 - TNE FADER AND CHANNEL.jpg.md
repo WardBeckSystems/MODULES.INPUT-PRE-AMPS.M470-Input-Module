@@ -22,7 +22,7 @@ Wiki page: [M470](../../../../PAGES/M470.md)
 - **Words (OCR):** 61 in 54 lines: swiech · TSTER · dapreseed · Ses"579 · 5ELecTCA Shitch · Gource · inout · Tiana pitn. · db/ac a · unit. · eultinc · frcotcy
 - **Title block:** (357, 0)–(432, 33) mm: DAT · WBS WARO-BECK bybteMB · Dan MGB · M47o · INPUT · MODUle · FRONT PANEL · SCALE · 470-04-003
 
-Every curve, box, word and wire group: [1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL (traced).json](../MECHANICAL/1977%20-%20M470%20-%20470-04-003%20-%20TNE%20FADER%20AND%20CHANNEL%20(traced).json) (the CAD file: `1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL (traced).json](../MECHANICAL/1977%20-%20M470%20-%20470-04-003%20-%20TNE%20FADER%20AND%20CHANNEL%20%28traced%29.json) (the CAD file: `1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL (traced).dxf`).
 
 ## Full text
 
