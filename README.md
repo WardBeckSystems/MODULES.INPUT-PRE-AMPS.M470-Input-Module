@@ -43,6 +43,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6.jpg`, `1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M470.stl`](MECHANICAL/M470.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M470)
+
+- **Size:** 45.77 × 285.2 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 24 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M470 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M470.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
