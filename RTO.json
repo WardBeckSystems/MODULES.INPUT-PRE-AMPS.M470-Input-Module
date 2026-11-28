@@ -7,272 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "M2 OUT",
-   "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "1",
-   "signal": "LINE IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "DIRECT OUT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "CH ON SWITCH OUT",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "INSERT OUT",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "MIC IN 1",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "CHASSIS",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "M2 OUT",
-   "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "LINE IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "DIRECT OUT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "E",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "H",
-   "signal": "CH ON SWITCH OUT",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "J",
-   "signal": "INSERT OUT",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "W",
-   "signal": "MIC IN 1",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M470/M470.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [
   {
    "function": "CH ON LAMP",
@@ -361,5 +95,426 @@
  "sources": [
   "Engineering/RTO-144/M470/M470.rto144.json",
   "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "signal": "M2-OUT",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "signal": "BUS-SUB6",
+   "kind": "bus",
+   "port": "SUB6",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "signal": "BUS-SUB4",
+   "kind": "bus",
+   "port": "SUB4-RS4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "signal": "BUS-SUB2",
+   "kind": "bus",
+   "port": "SUB2-RS2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "signal": "BUS-LEFT-OUT",
+   "kind": "bus",
+   "port": "LEFT",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "signal": "BUS-SUB5",
+   "kind": "bus",
+   "port": "SUB5",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "signal": "BUS-SUB3",
+   "kind": "bus",
+   "port": "SUB3-RS3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "signal": "BUS-SUB1",
+   "kind": "bus",
+   "port": "SUB1-RS1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "signal": "BUS-AUX4",
+   "kind": "bus",
+   "port": "AUX4-FB4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "signal": "BUS-AUX3",
+   "kind": "bus",
+   "port": "AUX3-FB3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "signal": "BUS-AUX2",
+   "kind": "bus",
+   "port": "AUX2-FB2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "signal": "BUS-AUX1",
+   "kind": "bus",
+   "port": "AUX1-FB1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "signal": "BUS-PFL",
+   "kind": "bus",
+   "port": "PFL",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "signal": "BUS-SOLO-CUE-OUT",
+   "kind": "bus",
+   "port": "SOLO-CUE",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "signal": "MIC-IN-1",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "signal": "JMP.Z.22",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "signal": "M2-OUT",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "signal": "BUS-SUB6",
+   "kind": "bus",
+   "port": "SUB6",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "signal": "BUS-SUB4",
+   "kind": "bus",
+   "port": "SUB4-RS4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "signal": "BUS-SUB2",
+   "kind": "bus",
+   "port": "SUB2-RS2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "signal": "BUS-LEFT-OUT",
+   "kind": "bus",
+   "port": "LEFT",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "signal": "BUS-SUB5",
+   "kind": "bus",
+   "port": "SUB5",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "signal": "BUS-SUB3",
+   "kind": "bus",
+   "port": "SUB3-RS3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "signal": "BUS-SUB1",
+   "kind": "bus",
+   "port": "SUB1-RS1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "signal": "BUS-AUX4",
+   "kind": "bus",
+   "port": "AUX4-FB4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "signal": "BUS-AUX3",
+   "kind": "bus",
+   "port": "AUX3-FB3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "signal": "BUS-AUX2",
+   "kind": "bus",
+   "port": "AUX2-FB2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "signal": "BUS-AUX1",
+   "kind": "bus",
+   "port": "AUX1-FB1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "signal": "BUS-PFL",
+   "kind": "bus",
+   "port": "PFL",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "signal": "BUS-SOLO-CUE-OUT",
+   "kind": "bus",
+   "port": "SOLO-CUE",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "signal": "MIC-IN-1",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "signal": "JMP.Z.22",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "signal": "LINE-IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "signal": "FADER-RETURN",
+   "kind": "in",
+   "port": "B4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "signal": "INSERT-RETURN",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "signal": "CH-ON-SWITCH OUT",
+   "kind": "out",
+   "port": "B3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "signal": "INSERT-OUT",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "VEE-AUDIO -25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "VCC-AUDIO +25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "shield",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "signal": "LINE-IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "signal": "FADER-RETURN",
+   "kind": "in",
+   "port": "B4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "signal": "INSERT-RETURN",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "signal": "CH-ON-SWITCH OUT",
+   "kind": "out",
+   "port": "B3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "J",
+   "signal": "INSERT-OUT",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "signal": "JMP.Z.W",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "signal": "VCC-LOGIC +24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "signal": "JMP.Z.W",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M470/M470.rto144.json"
+ }
 }
