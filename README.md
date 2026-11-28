@@ -4,13 +4,12 @@ Ward-Beck Systems M470, 1977|10. Wiki page: [M470 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 28 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 37 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 27 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 27 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 36 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 11 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 46 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -28,8 +27,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbjFERkpjVmlsOXc/view?resourcekey=0-6oZwJLymG3xHasrtx2Bn_w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbjFERkpjVmlsOXc&resourcekey=0-6oZwJLymG3xHasrtx2Bn_w" width="240" alt="1977 - M470 - Pre amps.jpg"></a><br><sub>1977|10 · Pre amps</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWE1oWTdYVUVhR0E/view?resourcekey=0-PAd0ewzoSiy08UH5Y0cNdQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWE1oWTdYVUVhR0E&resourcekey=0-PAd0ewzoSiy08UH5Y0cNdQ" width="240" alt="1977 - M470 - input Module 2.jpg"></a><br><sub>1977|10 · input Module 2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHFRZWc5UVR6M0k/view?resourcekey=0-ro5paLNOLLN7nAXyQgzpig" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHFRZWc5UVR6M0k&resourcekey=0-ro5paLNOLLN7nAXyQgzpig" width="240" alt="1977 - M470 - input modules.jpg"></a><br><sub>1977|10 · input modules</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1988 - WBS 10-014 - WBS STANDARD PARTS POTENTIOMETER SINGLE 7K5 OHM RZ (B) TAPER - DRN GEB.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -39,7 +36,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYUdlN2s1THAxckU/view?resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYUdlN2s1THAxckU&resourcekey=0-WsMRo9jMwQiuQjjYXduCvg" width="240" alt="19xx - M470 - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg"></a><br><sub>19xx - M470 - DOC - STEREO L SERIES - P009 - B77012-04-011 L · <a href="MECHANICAL/19xx%20-%20M470%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P009%20-%20B77012-04-011%20L%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6.jpg`, `1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6.jpg`
+## 3-D model
+
+[`MECHANICAL/M470.stl`](MECHANICAL/M470.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M470)
+
+- **Size:** 45.77 × 285.2 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 24 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M470 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M470.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -49,13 +53,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDVDY00yWG1ZUTA/view?resourcekey=0-whKWXruMJq8jxv7Tev2rCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWDVDY00yWG1ZUTA&resourcekey=0-whKWXruMJq8jxv7Tev2rCA" width="240" alt="1977 - M470 - DOC - 77038-01-002 - MMEN OTONALI INE.jpg"></a><br><sub>1977|10 · DOC - 77038-01-002 - MMEN OTONALI INE · <a href="SCHEMATICS/1977%20-%20M470%20-%20DOC%20-%2077038-01-002%20-%20MMEN%20OTONALI%20INE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/142X95FHd_s1x0N275GghLTQh7ADvCIsV/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=142X95FHd_s1x0N275GghLTQh7ADvCIsV" width="240" alt="1984 - 470-01-006 - M470E INPUT MODULE FUNCTIONAL DIAGRAM - DRN JP - ENG ELJ - ISS 1.jpg"></a><br><sub>1984|17 · 470-01-006 - M470E INPUT MODULE FUNCTIONAL DIAGRAM - DRN JP - ENG ELJ - ISS 1 · <a href="SCHEMATICS/1984%20-%20470-01-006%20-%20M470E%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20JP%20-%20ENG%20ELJ%20-%20ISS%201%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3.jpg`, `1977 - 470-01-002 - M470A INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3.jpg`, `1984 - 470-01-006 - M470E INPUT MODULE FUNCTIONAL DIAGRAM - DRN JP - ENG ELJ - ISS 1 (2).jpg`, `19xx - 470-01-004 - M470C INPUT MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 1.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M470 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -107,8 +107,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M470 - DOC - L3242 - Ad](https://drive.google.com/file/d/0B0yR0b5T78SKVjRpRGZBc09YU3c/view?resourcekey=0-dIeKM_67ctdm6cSeina6ag)
 
-Not on Google Drive yet: `19xx - M470 - Input Channel 1.png`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -121,7 +119,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 470-01-004 - M470C INPUT MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 1.kicad_sch](KICAD/19xx%20-%20470-01-004%20-%20M470C%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%201.kicad_sch)
 - [19xx - 470-01-004.kicad_sch](KICAD/19xx%20-%20470-01-004.kicad_sch)
 - [M470.kicad_sym](KICAD/M470.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
