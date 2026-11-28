@@ -1,5 +1,5 @@
 # 1988 - WBS 10-014 - WBS STANDARD PARTS POTENTIOMETER SINGLE 7K5 OHM RZ (B) TAPER - DRN GEB.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1988 (title block date)

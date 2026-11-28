@@ -1,5 +1,5 @@
 # 1984 - 470-01-006 - M470E INPUT MODULE FUNCTIONAL DIAGRAM - DRN JP - ENG ELJ - ISS 1 (2).jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1984 (title block date)

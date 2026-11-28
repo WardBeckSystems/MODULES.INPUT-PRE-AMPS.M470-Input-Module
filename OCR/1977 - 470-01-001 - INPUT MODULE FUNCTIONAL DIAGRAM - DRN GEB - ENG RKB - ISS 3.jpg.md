@@ -1,5 +1,5 @@
 # 1977 - 470-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1977 (title block date)

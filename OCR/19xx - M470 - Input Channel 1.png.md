@@ -1,5 +1,5 @@
 # 19xx - M470 - Input Channel 1.png
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** unknown (title block (read by eye))

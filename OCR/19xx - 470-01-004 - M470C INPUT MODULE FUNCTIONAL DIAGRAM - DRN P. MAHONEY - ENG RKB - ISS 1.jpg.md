@@ -1,5 +1,5 @@
 # 19xx - 470-01-004 - M470C INPUT MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 1.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1977 (title block date)

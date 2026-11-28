@@ -1,5 +1,5 @@
 # 1977 - M470 - input modules.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

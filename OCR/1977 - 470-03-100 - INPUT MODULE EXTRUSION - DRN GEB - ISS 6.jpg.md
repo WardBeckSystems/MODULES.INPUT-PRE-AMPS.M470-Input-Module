@@ -1,5 +1,5 @@
 # 1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6.jpg
-Wiki page: [M470](../../../../PAGES/M470.md)
+Wiki page: [M470](../)
 
 
 - **Year:** 1977 (title block date)
